@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdalsalam-alsafadi-15a877254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalsalam safadi" height="30" width="40" /></a>
-<a href="  https://www.instagram.com/abdalsalam.safadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matrix-911" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdalsalam.safadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matrix-911" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/#8291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8291" height="30" width="40" /></a>
   <a href="https://web.facebook.com/abdallah.ghrabat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah ghrabat" height="30" width="40" /></a> -->
   <a href="mailto:abdalsalam214@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="abdalsalam214@gmail.com" height="30" width="30" /></a>
